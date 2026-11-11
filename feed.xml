@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Blender Extensions - Asset Libraries</title>
+    <link>https://extensions.blender.org/asset-libraries/</link>
+    <description>New asset libraries published on extensions.blender.org</description>
+    <lastBuildDate>Wed, 11 Nov 2026 12:36:02 +0000</lastBuildDate>
+    <item>
+      <title>Alex Chamberlain</title>
+      <link>https://extensions.blender.org/asset-libraries/alex-chamberlain/</link>
+      <guid isPermaLink="true">https://extensions.blender.org/asset-libraries/alex-chamberlain/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:36:02 +0000</pubDate>
+      <description>Digital Paleontology (by AlexanderChamberlain)</description>
+    </item>
+    <item>
+      <title>Bradley Node Presets</title>
+      <link>https://extensions.blender.org/asset-libraries/bradley-nodes-presets/</link>
+      <guid isPermaLink="true">https://extensions.blender.org/asset-libraries/bradley-nodes-presets/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:36:02 +0000</pubDate>
+      <description>Focusing on the motion graphics and VFX aspects of node systems (by Bradley_G)</description>
+    </item>
+    <item>
+      <title>Cartesian Caramel's Everyday Nodes</title>
+      <link>https://extensions.blender.org/asset-libraries/cartesian-caramel-everyday-nodes/</link>
+      <guid isPermaLink="true">https://extensions.blender.org/asset-libraries/cartesian-caramel-everyday-nodes/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:36:02 +0000</pubDate>
+      <description>The geometry node groups I use in my everyday workflow (by Cartesian_Caramel)</description>
+    </item>
+    <item>
+      <title>Charge Open Movie Library</title>
+      <link>https://extensions.blender.org/asset-libraries/charge/</link>
+      <guid isPermaLink="true">https://extensions.blender.org/asset-libraries/charge/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:36:02 +0000</pubDate>
+      <description>Hard-surface objects from the film, materials and FX setups (by Blender Studio)</description>
+    </item>
+    <item>
+      <title>rileyb3d Models</title>
+      <link>https://extensions.blender.org/asset-libraries/rileyb3d/</link>
+      <guid isPermaLink="true">https://extensions.blender.org/asset-libraries/rileyb3d/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:36:02 +0000</pubDate>
+      <description>221 models for interiors, outdoor scenes, and everyday details (by rileyb3d)</description>
+    </item>
+    <item>
+      <title>Cube Diorama</title>
+      <link>https://extensions.blender.org/asset-libraries/cube-diorama/</link>
+      <guid isPermaLink="true">https://extensions.blender.org/asset-libraries/cube-diorama/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:36:02 +0000</pubDate>
+      <description>Assemble a cute archiviz diorama (by Blender Studio)</description>
+    </item>
+    <item>
+      <title>ambientCG Lite</title>
+      <link>https://extensions.blender.org/asset-libraries/ambientcg/</link>
+      <guid isPermaLink="true">https://extensions.blender.org/asset-libraries/ambientcg/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:36:02 +0000</pubDate>
+      <description>Free 3D Assets for Everyone and Everything (by Lennart-Demes)</description>
+    </item>
+    <item>
+      <title>Poly Haven Lite</title>
+      <link>https://extensions.blender.org/asset-libraries/poly-haven/</link>
+      <guid isPermaLink="true">https://extensions.blender.org/asset-libraries/poly-haven/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:36:02 +0000</pubDate>
+      <description>The Public 3D Asset Library (by Poly Haven)</description>
+    </item>
+  </channel>
+</rss>
